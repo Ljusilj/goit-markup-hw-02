@@ -169,25 +169,11 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
-
 .all-btn:hover,
 .all-btn:focus {
   color: #FFFFFF;
   background-color: #404BBF;
 }
-
-.site-btn {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #4D5AE5;
-  background-color: #F4F4FD;
-  border: 1px solid #E7E9FC;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
 .logo-footer {
   background-color: #2e2f42;
 }
