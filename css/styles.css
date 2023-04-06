@@ -64,20 +64,6 @@ body {
 .contact-mail:focus {
   color: #404bbf;
 }
-
-.phone-number {
-  font-style: normal;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.phone-number:hover,
-.phone-number:focus {
-  color: #404bbf;
-}
-
 .contacts {
   font-style: normal;
 }
