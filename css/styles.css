@@ -1,6 +1,5 @@
 :root {
   --primery-font: 'Roboto', sans-serif;
-  --background-color: #F4F4FD;
 }
 
 .list {
@@ -122,7 +121,7 @@ body {
   align-items: center;
   letter-spacing: 0.04em;
   color: #FFFFFF;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
@@ -174,13 +173,13 @@ body {
 .all-btn {
   font-family: "Roboto", sans-serif;
   color: #4d5ae5;
-  background-color: var(--background-color);
+  background-color: #F4F4FD;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
   letter-spacing: 0.04em;
-  background: #404BBF;
+  background-color: #404BBF;
   box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
   cursor: pointer;
